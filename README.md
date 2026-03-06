@@ -1,6 +1,6 @@
 # Munzir Ahmed
 
-## Computer Science student with a passion for cybersecurity, blue-team operations, and defensive infrastructure.  
+#### Computer Science student with a passion for cybersecurity, blue-team operations, and defensive infrastructure.  
 
 ---
 
